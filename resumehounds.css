@@ -1,0 +1,68 @@
+p{
+	float: left;
+}
+
+.header{
+	padding-top:0;
+	padding-bottom: 13%;
+	margin-bottom: 2%;
+	border-bottom :2px solid #f1f1f1;
+}
+
+p.left{
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-right: 0%;
+	width:25%;
+}
+
+p.right{
+	width:70%;
+	margin-bottom: 0;
+	margin-top: 5%;
+	margin-left: 2%;
+	margin-right: 3%;
+	font-family: Raleway;
+	font-size: 23px;
+	text-transform: uppercase;
+	font-weight: 800;
+	white-space: nowrap;
+}
+
+div.gallery{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+
+
+img{
+	width: 100%;
+	float: left;
+	margin: 1.66%;
+}
+
+
+
+div.desc{
+	padding: 10px;
+	text-align: center;
+	font-family: Raleway;
+	font-size: 20px;
+}
+
+
+
+a{
+	text-decoration: none;
+}
+
+i{
+	padding-left: 20px;
+}
+
+i:hover{
+	transform: scale(1.5);
+	font-size: 30px;
+}
